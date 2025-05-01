@@ -13,5 +13,5 @@
 - Describe the basics of Cascading Style Sheets (CSS3)
 - Use the Document Object Model (DOM) to modify pages
   
-3) Others: (ABET i)
+3) Others:
 - Improve study skills (academic reading, information searching, ...)
