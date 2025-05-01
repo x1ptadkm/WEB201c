@@ -7,7 +7,7 @@
 - Demonstrate the ability to design and implement a responsive site for three platforms.
 - The way a web page is presented in browsers.
 
-2) Able to (ABET k)
+2) Able to 
 - Add interacitivity to web pages with Javascript
 - Apply responsive design to enable page to be viewed by various devices
 - Describe the basics of Cascading Style Sheets (CSS3)
