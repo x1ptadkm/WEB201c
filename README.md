@@ -1,6 +1,6 @@
 # Front-end Web Design
 
-1) Knowledge: Understand (ABET e)
+1) Knowledge: Understand
 - The concepts of HTML, CSS3, JavaScript, Interactivity with JavaScript, Advanced Styling with Responsive Design
 - Web page structure.
 - Web site structure.
